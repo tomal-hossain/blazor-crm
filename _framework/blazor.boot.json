@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "BlazorCRM",
@@ -71,10 +71,10 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/BlazorCRM.resources.dll": "sha256-KMr22DsyYyg+eTKkjkbl5Ky3MTOjGZKrI2ZsMokV1Kk="
+        "de\/BlazorCRM.resources.dll": "sha256-rG+cvV0cCwYKpj7smBAq\/ENVsMrGukpF7rs9a9i7dL0="
       },
       "es": {
-        "es\/BlazorCRM.resources.dll": "sha256-2RVLRhHo\/\/hHf\/OTeMWcnLG7MKhzgo\/Fz7twN6BUE9k="
+        "es\/BlazorCRM.resources.dll": "sha256-ELeZOgwiZspf2ZeweBLznxvTwogrDwV7z0gc64Ggx4g="
       }
     }
   }
