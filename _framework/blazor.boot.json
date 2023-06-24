@@ -71,10 +71,10 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/BlazorCRM.resources.dll": "sha256-IA2KnKDjgPudO+DVy11Lkn\/HrkI2+OUJEJGZAsSsp6c="
+        "de\/BlazorCRM.resources.dll": "sha256-KMr22DsyYyg+eTKkjkbl5Ky3MTOjGZKrI2ZsMokV1Kk="
       },
       "es": {
-        "es\/BlazorCRM.resources.dll": "sha256-Zz5skcxQXvh6QJhShJ1OxV+eOmXsggxGfvxl0VY1fw4="
+        "es\/BlazorCRM.resources.dll": "sha256-2RVLRhHo\/\/hHf\/OTeMWcnLG7MKhzgo\/Fz7twN6BUE9k="
       }
     }
   }
