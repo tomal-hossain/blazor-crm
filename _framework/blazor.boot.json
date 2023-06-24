@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorCRM.dll": "sha256-eJmAZd54YPj+g6\/RohIhZGyNejMJPUIa6MOkGAuPyUU=",
+      "BlazorCRM.dll": "sha256-ek1bB\/uhVBsILzxZVk8bJlOG53v1yYYAP1YPTr1Q2W8=",
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-mDqqOku7V7L5fFmdXv2TVHCwlH5hJbwxMI9+wlEmj0A=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-RlUr8YDv2QUz4+zMpFcHKwmbPYx98oFyIHr2P9Wtwxk=",
@@ -71,10 +71,10 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/BlazorCRM.resources.dll": "sha256-rG+cvV0cCwYKpj7smBAq\/ENVsMrGukpF7rs9a9i7dL0="
+        "de\/BlazorCRM.resources.dll": "sha256-XWGYtL4jvSVZayCl9pPkS6wZeaerm65K08qN8d4eFKs="
       },
       "es": {
-        "es\/BlazorCRM.resources.dll": "sha256-ELeZOgwiZspf2ZeweBLznxvTwogrDwV7z0gc64Ggx4g="
+        "es\/BlazorCRM.resources.dll": "sha256-heWMgdSEhqnmjQ3yJpb9FDHUom9WRaZfg24CLvTurt4="
       }
     }
   }
