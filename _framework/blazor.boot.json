@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorCRM.dll": "sha256-p\/Gqgtxwe3YngFVrhbCzhPXRkTve+DeeS9V5fjjOyg0=",
+      "BlazorCRM.dll": "sha256-Mpa30\/3P0waimg36yQPzZu+TP63jKGgNDMTUMOwtV3U=",
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-mDqqOku7V7L5fFmdXv2TVHCwlH5hJbwxMI9+wlEmj0A=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-RlUr8YDv2QUz4+zMpFcHKwmbPYx98oFyIHr2P9Wtwxk=",
@@ -30,7 +30,7 @@
       "System.Collections.Concurrent.dll": "sha256-OyK7M\/dcoGkHDSsJYKsvdd8K6UMxB+aMLh7bsR0Bimc=",
       "System.Collections.dll": "sha256-I4zoGeAudhlK83LvrQF\/YGQYQ6SJZ7fjI3PD+0CBNsc=",
       "System.Collections.NonGeneric.dll": "sha256-mTmjgkMzzOi6Rip\/NoHCzwNtOR2UVamK\/WUXOUI20uI=",
-      "System.ComponentModel.Annotations.dll": "sha256-GKnGvH5h6cDrW4n2v99m2zqyf9eyIRYgJy00VW26i3w=",
+      "System.ComponentModel.Annotations.dll": "sha256-U0VSRPRb9W6h+yx7207MLI\/DounGQdWK4ZwU2vyxBZw=",
       "System.ComponentModel.dll": "sha256-aF2ysxa8maJxS6cn0NMTkjFFkQQ2EGqlsZXcjbHKHAo=",
       "System.ComponentModel.Primitives.dll": "sha256-3b2hxvJyX+sO1iJizXCBPG2Nm7D0fRlNk1\/jlTHfpH0=",
       "System.ComponentModel.TypeConverter.dll": "sha256-4JXK2AY\/Vklx0qNs4EQ9rTPXea9bXGE2M3uWR7BaVLc=",
@@ -42,7 +42,7 @@
       "System.Net.Http.dll": "sha256-mya4i1sHxeP4WoBqvbDKHoZYPRoea6k3pEJuuxOyFdk=",
       "System.Net.Primitives.dll": "sha256-Vn7upR+hceVLajCt\/N+vZre3nxrTWW7f9JA0RQHyXzw=",
       "System.ObjectModel.dll": "sha256-TWgtE3T\/0McH\/DQsYr\/GOvDgGsyFwcxkSrcqYVwqCkk=",
-      "System.Private.CoreLib.dll": "sha256-tfNFL0c9jbVm4frIRbeL6AgsQlNOac5aTJyGz3zN3Wk=",
+      "System.Private.CoreLib.dll": "sha256-TNbgXZnWxBhMhvgkJvV3ynN9CUj3Ilon2lSoRrZ0SI4=",
       "System.Private.DataContractSerialization.dll": "sha256-YVid1DmsZL9hWLFYi5inU2tiQrFZ7eIa3tBRZkfKS14=",
       "System.Private.Uri.dll": "sha256-XTEwvLPcHW+xPj5bDEkxEMDOwSQVdgw4YFy4C57I6Ec=",
       "System.Private.Xml.dll": "sha256-8zpd6HMxhJEuHkPddEo1HIeQ+z9PfknHAZ1535MVTqQ=",
@@ -79,10 +79,10 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/BlazorCRM.resources.dll": "sha256-xV+QD64KLVIwvdrGDqoyHmQBOK3tNEYWDf1rW+Gm1cQ="
+        "de\/BlazorCRM.resources.dll": "sha256-lpoiFnTdDZNz710RL0NazxiepAONMVWu+5YoGPo4NWQ="
       },
       "es": {
-        "es\/BlazorCRM.resources.dll": "sha256-kWtozdV3QShPlIFUOWZF2jeVNK32M3JM2U0LpAzXbgk="
+        "es\/BlazorCRM.resources.dll": "sha256-LeHbomR3y7T3bFDub8pIFSLZfre4L7N5OyMuDslueH0="
       }
     }
   }
