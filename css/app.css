@@ -1,4 +1,182 @@
+.sc-scheduler {
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    border-radius: 4px;
+    border: 1px solid #dadfe2;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.01);
+    color: #77858b;
+    background: #ffffff;
+    overflow: hidden;
+    background-clip: border-box;
+}
 
-.mud-xs-table.mud-table-dense .mud-table-cell {
-    padding-right: 1.6rem !important;
+.sc-scheduler-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0.5rem;
+    background: #e9edf0;
+}
+
+.sc-scheduler-nav .sc-scheduler-nav-title {
+        display: flex;
+        align-self: center;
+        font-size: 1rem;
+        font-weight: 700;
+        color: #28363c;
+}
+
+.sc-view {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.sc-view-header {
+    border-top: 1px solid #dadfe2;
+    border-bottom: 1px solid #dadfe2;
+    background-color: #e9edf0;
+    text-transform: uppercase;
+    color: inherit;
+    display: flex;
+}
+
+.sc-view-header .sc-slot-header {
+        flex: 1;
+        text-align: center;
+        font-size: 0.7rem;
+        padding: 0.5rem 0;
+}
+
+.sc-month-view .sc-view-content {
+    flex: 1;
+    flex-direction: column;
+}
+
+.sc-view-content {
+    flex: auto;
+    display: flex;
+    overflow: auto;
+    height: 0;
+}
+
+.sc-week {
+    flex: 1;
+    font-size: 1rem;
+}
+
+.sc-events {
+    position: relative;
+}
+
+.sc-event {
+    position: absolute;
+    padding: 0 1px 1px 1px;
+    cursor: pointer;
+}
+
+.sc-event-content {
+    border-radius: 4px;
+    color: #ffffff;
+    height: 100%;
+    padding: 0.125rem 0.25rem;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    overflow: hidden;
+    color: var(--mud-palette-primary-text);
+    background-color: var(--mud-palette-primary-lighten);
+}
+
+.sc-week .sc-slots {
+    display: flex;
+    height: 100%;
+}
+
+.sc-slots {
+    flex: 1;
+    font-size: 1rem;
+}
+
+.sc-month-view .sc-slot:first-child {
+    border-left: none;
+}
+
+.sc-week:first-child .sc-slot {
+    border-top: none;
+}
+
+.sc-month-view .sc-slot {
+    flex: 1;
+    height: 100%;
+}
+
+.sc-slot {
+    display: flex;
+    height: 1.5em;
+    border-top: 1px solid #dadfe2;
+    border-left: 1px solid #dadfe2;
+}
+
+.sc-slot-title {
+    text-align: right;
+    font-size: 0.875rem;
+    padding: 0 0.25rem;
+}
+
+.sc-week-view .sc-view-header {
+    padding-right: 15px;
+}
+
+.sc-view-header .sc-slot-hour-header {
+    flex: none;
+    width: 80px;
+}
+
+.sc-slot-hours .sc-slot-header {
+    height: 1.5rem;
+    text-align: right;
+    font-size: 0.75rem;
+    padding: 0 0.25rem;
+    width: 5rem;
+    border-right: 1px solid #dadfe2;
+    white-space: nowrap;
+}
+
+.sc-week-view-content {
+    flex: 1;
+    display: flex;
+}
+
+.sc-week-view .sc-slot:nth-of-type(2) {
+    border-top: none;
+}
+
+.sc-day-view .sc-slot, .sc-slots:first-child .sc-slot {
+    border-left: none;
+}
+
+.sc-slot-minor {
+    border-top: 1px solid #e9edf0;
+}
+
+.sc-scheduler a.sc-event-list-btn {
+    position: absolute;
+    padding-left: 0.25rem;
+    color: #5b6471;
+    font-size: .75rem;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.sc-event-list .sc-event {
+    position: static;
+}
+
+.sc-day-view .sc-view-header {
+    padding-right: 15px;
+}
+
+.hello{
+    background-color:red !important;
 }
